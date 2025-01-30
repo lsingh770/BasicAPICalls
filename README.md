@@ -21,7 +21,26 @@ http://localhost:3000/students
     "grade": "A+"
 }
 ```
+## ⚡ Pre-Requisites  
+Before running the API requests, ensure you have the following installed:  
 
+### 1️⃣ Install [Node.js](https://nodejs.org/) and npm  
+Download and install **Node.js** from the official website:  
+👉 [Download Node.js](https://nodejs.org/)  
+
+To verify installation, open **Command Prompt (cmd)** and run:  
+```sh
+node -v
+npm -v
+```
+Install **json-server**
+```sh
+npm install -g json-server
+```
+Make your API up and running, use command in command line
+```sh
+json-server students.json
+```    
 
 ## 📌 API Endpoints  
 
