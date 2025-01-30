@@ -116,4 +116,4 @@ http://localhost:3000/students/ac82
 - Modify the request body in `POST` and `PUT` requests as needed.  
 
 ## 💡 Contributing  
-Feel free to modify and enhance this collection. Contributions and feedback are always welcome! 🚀  
+Contributions and feedback are always welcome! 🚀  
