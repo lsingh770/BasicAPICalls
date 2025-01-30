@@ -7,6 +7,21 @@ This Postman collection provides a simple yet comprehensive way to interact with
 ```
 http://localhost:3000/students
 ```
+## 📌 Example Student Data  
+```json
+{
+    "id": "96",
+    "name": "Sneha Singh",
+    "age": 21,
+    "gender": "Female",
+    "email": "sneha.singh@example.com",
+    "phone": "9876540492",
+    "address": "Jaipur, India",
+    "course": "Electronics",
+    "grade": "A+"
+}
+```
+
 
 ## 📌 API Endpoints  
 
@@ -89,20 +104,6 @@ http://localhost:3000/students/ac82
 ```
 **Description:** Deletes a student record using their unique ID.  
 
-## 📌 Example Student Data  
-```json
-{
-    "id": "96",
-    "name": "Sneha Singh",
-    "age": 21,
-    "gender": "Female",
-    "email": "sneha.singh@example.com",
-    "phone": "9876540492",
-    "address": "Jaipur, India",
-    "course": "Electronics",
-    "grade": "A+"
-}
-```
 
 ## 🛠️ How to Use  
 1. **Import Collection**: Open Postman → Import the `StudentAPIs.postman_collection.json` file.  
