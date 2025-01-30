@@ -44,7 +44,7 @@ http://localhost:3000/students
     "age": 32,
     "gender": "Male",
     "email": "lsingh770@gmail.com",
-    "phone": "9560656804",
+    "phone": "9000056804",
     "address": "Faridabad, India",
     "course": "Masters of Business Administration",
     "grade": "B+"
